@@ -19,6 +19,10 @@
   <p>
     <code>🏛️ Fudan University</code>
   </p>
+
+  <p>
+    <code>🎓 Communication Engineering</code> · <code>📍 Now Base in Shanghai</code>
+  </p>
 </div>
 
 <table>
