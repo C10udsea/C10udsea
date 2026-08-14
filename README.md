@@ -17,7 +17,7 @@
   />
 
   <p>
-    <code>🎓 Fudan University</code>
+    <code>🏛️ Fudan University</code>
   </p>
 </div>
 
