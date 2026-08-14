@@ -12,7 +12,7 @@
 
   <!-- Typing animation: edit text via lines=, color via color=7C3AED -->
   <img
-    src="https://readme-typing-svg.demolab.com?font=Noto+Sans+SC&weight=700&size=26&duration=2800&pause=1000000&color=7C3AED&center=true&vCenter=true&width=800&lines=%E4%BD%A0%E5%A5%BD%EF%BC%81%E6%88%91%E6%98%AFMin%EF%BC%8C%E5%B8%8C%E6%9C%9B%E4%BD%A0%E6%9C%89%E6%84%89%E5%BF%AB%E7%9A%84%E4%B8%80%E5%A4%A9"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2800&pause=1000000&color=7C3AED&center=true&vCenter=true&width=800&lines=Hello%21+I%27m+Min%2C+wish+you+a+pleasant+day."
     alt="Typing animation"
   />
 
