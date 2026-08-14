@@ -104,9 +104,3 @@
 </td>
 </tr>
 </table>
-
----
-
-<div align="center">
-  <sub>Built with 💜 by <b>Min</b> · Last updated on <i>REPLACE_DATE</i></sub>
-</div>
