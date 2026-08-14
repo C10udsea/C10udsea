@@ -5,7 +5,7 @@
     width="100%"
   />
 
-  <h1>Max</h1>
+  <h1>Min</h1>
 
   <p><em>Somewhere between nocode and a lazy summer afternoon.</em></p>
 
