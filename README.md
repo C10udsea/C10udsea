@@ -17,7 +17,7 @@
   />
 
   <p>
-    <code>🎓 通信工程学生</code> · <code>💻 全栈开发</code> · <code>🤖 AI 爱好者</code>
+    <code>🎓 复旦大学</code> · <code>💻 全栈开发</code> · <code>🤖 AI 爱好者</code>
   </p>
 
   <p>
