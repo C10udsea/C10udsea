@@ -21,7 +21,7 @@
   </p>
 
   <p>
-    <code>🎓 Communication Engineering</code> · <code>📍 Now Base in Shanghai</code>
+    <code>Communication Engineering</code> · <code>Now Base in Shanghai</code>
   </p>
 </div>
 
