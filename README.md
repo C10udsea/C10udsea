@@ -1,13 +1,13 @@
 <div align="center">
   <img
-    src="./assets/min-summer-banner.png"
+    src="./assets/max-summer-banner.png"
     alt="Pixel art of a quiet summer afternoon by an open window"
     width="100%"
   />
 
-  <h1>Min</h1>
+  <h1>Max</h1>
 
-  <p><em>Somewhere between code and a lazy summer afternoon.</em></p>
+  <p><em>Somewhere between nocode and a lazy summer afternoon.</em></p>
 
   <p>
     <a href="https://github.com/C10udsea">@C10udsea</a>
