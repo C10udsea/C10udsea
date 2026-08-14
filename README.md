@@ -1,6 +1,7 @@
 <!--
-  C10udsea (Min) · GitHub 个人主页
-  想改效果看 README 里的注释；替换占位符：YOUR_BLOG_URL / YOUR_EMAIL / YOUR_X_URL / project-one / project-two / REPLACE_DATE
+  C10udsea (Min) · GitHub Profile
+  See the inline comments to tweak effects.
+  Replace placeholders: YOUR_BLOG_URL / YOUR_EMAIL / YOUR_X_URL / project-one / project-two
 -->
 
 <div align="center">
@@ -10,14 +11,14 @@
     width="100%"
   />
 
-  <!-- 打字机动画：文案改 lines=，颜色改 color=7C3AED -->
+  <!-- Typing animation: edit text via lines=, color via color=7C3AED -->
   <img
     src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2800&pause=1200&color=7C3AED&center=true&vCenter=true&width=520&lines=Hi%2C+I%27m+Min+%F0%9F%91%8B;Full-Stack+Developer;AI+Enthusiast+%C2%B7+Student"
     alt="Typing animation"
   />
 
   <p>
-    <code>🎓 复旦大学</code> · <code>💻 全栈开发</code> · <code>🤖 AI 爱好者</code>
+    <code>🎓 Fudan University</code> · <code>💻 Full-Stack Development</code> · <code>🤖 AI Enthusiast</code>
   </p>
 
   <p>
@@ -42,7 +43,7 @@
 
 <div align="center">
 
-**🎓 通信 / 基础**
+**🎓 Communications / Fundamentals**
 <br/>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white"/>
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
@@ -53,7 +54,7 @@
 
 <br/>
 
-**💻 全栈**
+**💻 Full-Stack**
 <br/>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
@@ -84,22 +85,22 @@
 
 ### 🌱 Currently
 
-- 🎓 通信工程专业在读，夯实数理与工程基础
-- 💻 持续精进全栈开发，积累真实项目经验
-- 🤖 学习大模型应用（RAG / Agent / 微调）
-- 🤝 开放交流：技术讨论 · 组队做项目 · 实习机会
+- 🎓 Studying at Fudan University, building a solid foundation in math & engineering
+- 💻 Sharpening full-stack skills and shipping real projects
+- 🤖 Exploring LLM applications (RAG / Agent / fine-tuning)
+- 🤝 Open to: tech discussions · collaborations · internships
 
 </td>
 <td valign="top" width="52%">
 
 ### 🚀 Featured Projects
 
-> 项目还在路上，敬请期待 ✨（有作品后替换下面两行）
+> Projects are on the way — stay tuned ✨ (replace the rows below once you have work to show)
 
 | Project | Description |
 | :--- | :--- |
-| **[project-one](https://github.com/C10udsea/project-one)** | 一句话说清它是干嘛的，解决了什么问题。 |
-| **[project-two](https://github.com/C10udsea/project-two)** | 一句话说清它是干嘛的，解决了什么问题。 |
+| **[project-one](https://github.com/C10udsea/project-one)** | One line: what it does and what problem it solves. |
+| **[project-two](https://github.com/C10udsea/project-two)** | One line: what it does and what problem it solves. |
 
 </td>
 </tr>
