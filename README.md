@@ -1,6 +1,6 @@
 <div align="center">
   <img
-    src="./assets/max-summer-banner.png"
+    src="./assets/max-summer-banner.jpg"
     alt="Pixel art of a quiet summer afternoon by an open window"
     width="100%"
   />
