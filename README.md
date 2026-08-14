@@ -107,27 +107,6 @@
 
 ---
 
-### 📈 GitHub Stats
-
-<div align="center">
-
-  <a href="https://github.com/C10udsea">
-    <img height="160" src="https://github-readme-stats.vercel.app/api?username=C10udsea&show_icons=true&theme=radical&count_private=true&hide_border=true" />
-  </a>
-  <a href="https://github.com/C10udsea">
-    <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=C10udsea&layout=compact&theme=radical&hide_border=true" />
-  </a>
-
-  <br/>
-
-  <a href="https://github.com/C10udsea">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=C10udsea&theme=radical&hide_border=true" />
-  </a>
-
-</div>
-
----
-
 <div align="center">
   <sub>Built with 💜 by <b>Min</b> · Last updated on <i>REPLACE_DATE</i></sub>
 </div>
