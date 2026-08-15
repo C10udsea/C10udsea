@@ -1,8 +1,3 @@
-删除成功
-ea (Min) · GitHub Profile
-  Replace placeholders: project-one / project-two
--->
-
 <div align="center">
   <img
     src="./assets/min-summer-banner.png"
