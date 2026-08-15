@@ -12,8 +12,8 @@
 
   <!-- Typing animation: edit text via lines=, color via color=7C3AED -->
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2800&pause=1000000&color=7C3AED&center=true&vCenter=true&width=800&lines=Hello%21+I%27m+Min%2C+wish+you+a+pleasant+day."
-    alt="Typing animation"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2800&pause=1000000&color=7C3AED&center=true&vCenter=true&width=800&lines=Hi%EF%BC%81I%27m+Min"
+    alt="Hi！I'm Min"
   />
 
   <p>
@@ -51,3 +51,15 @@
 </td>
 </tr>
 </table>
+
+<br />
+
+<div align="center">
+
+### 📮 Contact
+
+<a href="mailto:nzq2531957323@163.com">
+  <img src="https://img.shields.io/badge/Email-nzq2531957323%40163.com-7C3AED?style=flat-square" alt="Email: nzq2531957323@163.com" />
+</a>
+
+</div>
