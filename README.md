@@ -31,12 +31,3 @@
 </a>
 
 </div>
-
-## Projects
-
-| Project | Description |
-|---|---|
-| [PlantDiseasePrediction](https://github.com/C10udsea/PlantDiseasePrediction) | 38-class plant disease detection: model comparison, knowledge distillation, ONNX INT8, GUI. |
-| [kb-agent](https://github.com/C10udsea/kb-agent) | Hand-written RAG + Agent knowledge base Q&A system (DeepSeek/GLM + ChromaDB). |
-| [smart-memory-hat](https://github.com/C10udsea/smart-memory-hat) | Wearable visual memory assistant: ESP32-CAM + FastAPI/CLIP/ChromaDB + Qwen VL. |
-| [evolvebank](https://github.com/C10udsea/evolvebank) | A self-evolving agent memory: LLM agents learn from every task without model training. |
